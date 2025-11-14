@@ -1,0 +1,13 @@
+# requirements.txt content
+# Deep Learning Project:
+diffusers
+transformers
+accelerate
+torch==2.3.0
+torchvision==0.18.0
+torchaudio==2.3.0
+xformers==0.0.25
+# Computer Vision Project:
+opencv-python
+numpy
+matplotlib
